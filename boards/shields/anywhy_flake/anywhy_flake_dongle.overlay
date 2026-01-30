@@ -1,5 +1,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include "anywhy_flake.dtsi"
+#include <dt-bindings/display/st7789v.h>
 
 &medium_layout {
     transform = <&medium_transform>;
